@@ -1,5 +1,5 @@
 # Stroke-Prediction-ML and ANN
-Accuracy of the ML model is:  93.93% (By using RandomForestClassifier algorithm)
+Accuracy of the ML model is:  93.93% (By using SVM algorithm)
 
 # --ABOUUT DATASET--
 
