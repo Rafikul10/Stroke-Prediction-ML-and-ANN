@@ -1,5 +1,5 @@
 # Stroke-Prediction-ML-ANN
-Accuracy of the model is:  93.9334637964775
+Accuracy of the model is:  93.93%
 
 # --ABOUUT DATASET--
 
